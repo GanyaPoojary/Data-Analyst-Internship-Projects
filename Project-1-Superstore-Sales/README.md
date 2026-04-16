@@ -1,4 +1,5 @@
-Project 1: Superstore Sales Performance
+Project 1: 
+
 🛒 Superstore Sales Dashboard  
 "Turning Retail Data into Profit Strategies"
 
