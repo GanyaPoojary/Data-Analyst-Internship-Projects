@@ -29,6 +29,7 @@ Key features:
 - HR Analytics  
 
 📷 Dashboard Preview
+
 ![HR Dashboard](hrattrition.png)
 
  📁 Files Included
