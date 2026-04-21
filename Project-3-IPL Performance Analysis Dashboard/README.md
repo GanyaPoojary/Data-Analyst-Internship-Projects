@@ -2,9 +2,11 @@
 Data-Driven Insights into Cricket Performance
 
 📌 Problem
+
 IPL generates large amounts of match data, making it difficult to analyze team performance, player statistics, and match outcomes efficiently.
 
 💡 Solution
+
 Developed an interactive Power BI dashboard to analyze IPL match data and uncover insights related to teams, players, and match outcomes.
 
 Key features:
@@ -28,6 +30,7 @@ Key features:
 - DAX  
 
  📷 Dashboard Preview
+ 
 ![IPL Dashboard](ipl.png)
 
  📁 Files Included
